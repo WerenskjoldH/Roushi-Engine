@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SplashScreen\logo.png</Source>
+      <Name>SplashScreen\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\SplashScreen\logo.xnb</Output>
+      <Time>2016-03-17T05:20:42.4283825+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenManager\BlackOverlay.jpg</Source>
+      <Name>ScreenManager\BlackOverlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\ScreenManager\BlackOverlay.xnb</Output>
+      <Time>2016-03-17T05:20:38.6975451+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\titlescreen.png</Source>
+      <Name>TitleScreen\titlescreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\TitleScreen\titlescreen.xnb</Output>
+      <Time>2016-03-17T05:20:44.8981028+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\lineparticle.png</Source>
+      <Name>Particles\lineparticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\Particles\lineparticle.xnb</Output>
+      <Time>2016-03-17T05:20:38.5944728+09:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjects\potion.png</Source>
+      <Name>GameObjects\potion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\GameObjects\potion.xnb</Output>
+      <Time>2016-03-17T05:20:37.2495542+09:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjects\blocky.png</Source>
+      <Name>GameObjects\blocky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\GameObjects\blocky.xnb</Output>
+      <Time>2016-03-17T05:20:37.1044223+09:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjects\grass.png</Source>
+      <Name>GameObjects\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\GameObjects\grass.xnb</Output>
+      <Time>2016-03-17T05:20:37.1424483+09:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjects\player.png</Source>
+      <Name>GameObjects\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\GameObjects\player.xnb</Output>
+      <Time>2016-03-17T05:20:37.2094956+09:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjects\testsnowman.png</Source>
+      <Name>GameObjects\testsnowman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\GameObjects\testsnowman.xnb</Output>
+      <Time>2016-03-17T05:20:37.3586019+09:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjects\kindSign.png</Source>
+      <Name>GameObjects\kindSign</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\GameObjects\kindSign.xnb</Output>
+      <Time>2016-03-17T05:20:37.1764727+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\grayPixel.png</Source>
+      <Name>Particles\grayPixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\Particles\grayPixel.xnb</Output>
+      <Time>2016-03-17T05:20:38.549445+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\blackPixel.png</Source>
+      <Name>Particles\blackPixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\Particles\blackPixel.xnb</Output>
+      <Time>2016-03-17T05:20:38.5104187+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\redPixel.png</Source>
+      <Name>Particles\redPixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\Particles\redPixel.xnb</Output>
+      <Time>2016-03-17T05:20:38.6304994+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Accessories\talkBubble.png</Source>
+      <Name>Accessories\talkBubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\Accessories\talkBubble.xnb</Output>
+      <Time>2016-03-17T05:20:36.9052818+09:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjects\scratchedSign.png</Source>
+      <Name>GameObjects\scratchedSign</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\GameObjects\scratchedSign.xnb</Output>
+      <Time>2016-03-17T05:20:37.2855567+09:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjects\templateMan.png</Source>
+      <Name>GameObjects\templateMan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\GameObjects\templateMan.xnb</Output>
+      <Time>2016-03-17T05:20:37.3245771+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textbox\blinker.png</Source>
+      <Name>Textbox\blinker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\Textbox\blinker.xnb</Output>
+      <Time>2016-03-17T05:20:42.4653802+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textbox\defaultTextbox.png</Source>
+      <Name>Textbox\defaultTextbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\Textbox\defaultTextbox.xnb</Output>
+      <Time>2016-03-17T05:20:42.4964064+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textbox\signTextbox.png</Source>
+      <Name>Textbox\signTextbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\Textbox\signTextbox.xnb</Output>
+      <Time>2016-03-17T05:20:42.5284255+09:00</Time>
+    </Item>
+    <Item>
+      <Source>NPC\Insect\Worm\worm.png</Source>
+      <Name>NPC\Insect\Worm\worm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\NPC\Insect\Worm\worm.xnb</Output>
+      <Time>2016-03-17T05:20:37.4316527+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Decals\blood.png</Source>
+      <Name>Decals\blood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\Decals\blood.xnb</Output>
+      <Time>2016-03-17T05:20:36.9973538+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Hud\healthBlock.png</Source>
+      <Name>Hud\healthBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\Hud\healthBlock.xnb</Output>
+      <Time>2016-03-17T06:48:27.5349866+09:00</Time>
+    </Item>
+    <Item>
+      <Source>NPC\Insect\Sprite\sprite.png</Source>
+      <Name>NPC\Insect\Sprite\sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\NPC\Insect\Sprite\sprite.xnb</Output>
+      <Time>2016-03-25T04:13:09.4253746+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\bitFont.spritefont</Source>
+      <Name>Fonts\bitFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\Fonts\bitFont.xnb</Output>
+      <Time>2016-03-17T05:20:37.0564164+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Placeholder.wav</Source>
+      <Name>Sounds\Placeholder</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\Sounds\Placeholder.xnb</Output>
+      <Time>2016-03-17T05:20:42.3573036+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Tick.wav</Source>
+      <Name>Sounds\Tick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\Sounds\Tick.xnb</Output>
+      <Time>2016-03-17T05:20:42.3923322+09:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomCombine.fx</Source>
+      <Name>BloomCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\BloomCombine.xnb</Output>
+      <Time>2016-03-17T05:20:36.6941609+09:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomExtract.fx</Source>
+      <Name>BloomExtract</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\BloomExtract.xnb</Output>
+      <Time>2016-03-17T05:20:36.7431706+09:00</Time>
+    </Item>
+    <Item>
+      <Source>GaussianBlur.fx</Source>
+      <Name>GaussianBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\GaussianBlur.xnb</Output>
+      <Time>2016-03-17T05:20:36.7952034+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\RoushiContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\RoushiContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\Roushi\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-24T03:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-24T03:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-24T03:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-24T03:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-24T03:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-24T03:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-06-22T20:48:03.8473208+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

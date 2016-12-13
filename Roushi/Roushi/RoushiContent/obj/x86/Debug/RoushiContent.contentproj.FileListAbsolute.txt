@@ -1,0 +1,3 @@
+C:\Users\Zombiedance\Documents\Visual Studio 2010\Projects\Roushi\Roushi\RoushiContent\obj\x86\Debug\RoushiContent.contentprojResolveAssemblyReference.cache
+D:\My Programming Projects\Roushi\Roushi\Roushi\RoushiContent\obj\x86\Debug\RoushiContent.contentprojResolveAssemblyReference.cache
+C:\Users\Zombiedance\Desktop\Roushi - .2b\Roushi\Roushi\RoushiContent\obj\x86\Debug\RoushiContent.contentprojResolveAssemblyReference.cache
